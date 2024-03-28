@@ -1,2 +1,4 @@
-# WordPress-zh_CN-Glossary
-文派（WordPress）中文通用标准词汇对照表
+# 中国汉语字词英汉对照表
+
+这是由 WordPress 中国翻译团队维护的一份基础中英文词汇对照表。
+
